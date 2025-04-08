@@ -18,7 +18,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/react-stdlib-showcase.git
+   git clone https://github.com/PrathamBhamare/react-stdlib-showcase.git
    ```
 
 2. **Navigate to the project directory**
