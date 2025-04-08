@@ -1,0 +1,83 @@
+.function-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.function-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.function-card-header {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.expand-icon {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.function-card-content {
+  padding: 0 1rem 1rem;
+  border-top: 1px solid #eee;
+}
+
+.function-item {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 4px;
+}
+
+.function-item code {
+  display: block;
+  background: #2d2d2d;
+  color: #fff;
+  padding: 1rem;
+  margin-top: 0.5rem;
+  border-radius: 4px;
+  white-space: pre;
+}
+
+.try-it-section {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #f1f5f9;
+  border-radius: 4px;
+}
+
+.try-it-section input {
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 4px;
+  width: 60%;
+}
+
+.try-it-section button {
+  padding: 0.5rem 1rem;
+  background: #2c5282;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.try-it-section button:hover {
+  background: #1e3a8a;
+}
+
+.output {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  background: #ffffff;
+  border-radius: 4px;
+  border-left: 4px solid #2c5282;
+}
