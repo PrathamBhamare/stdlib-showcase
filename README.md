@@ -40,10 +40,6 @@ To get a local copy up and running, follow these steps:
 
 Once the application is running, you can explore the various cards to see the functionalities of the stdlib library in action.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
